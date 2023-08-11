@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardThemeLib", "CardThemeLib.csproj", "{FFB073D1-DB54-ED8B-96DA-51A28D111A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{24D6D2F9-A827-3AA9-471B-B9BE74DB202A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillsWackyManagers", "WillsWackyManagers.csproj", "{1C278816-3E1F-B1E5-A42E-53A169C7A4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModsPlus", "ModsPlus.csproj", "{58403211-69CD-60F6-81A7-97F9B15A21AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnboundLib", "UnboundLib.csproj", "{A05A64CB-7143-7C2B-F30D-641BB6655270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModdingUtils", "ModdingUtils.csproj", "{FAE3AE40-B1D4-FAC8-415D-59357FA651CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardChoiceSpawnUniqueCardPatch", "CardChoiceSpawnUniqueCardPatch.csproj", "{346E4D88-0493-E09D-B220-E307C0833D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILGenerator", "ILGenerator.csproj", "{3DB0BF54-5702-4B54-BF25-F3306A01CA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesManagerReborn", "ClassesManagerReborn.csproj", "{0CFC270C-8E6B-5CE4-927A-BB3E403E1FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RarityLib", "RarityLib.csproj", "{9F1EA492-0214-FCFD-F8DF-70DBBB9BB259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedVanillaCards", "BalancedVanillaCards.csproj", "{C32D69BF-9F07-2386-DAC1-6B905919C36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{009BCC17-4B86-863E-BED5-E810DB5CC5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB073D1-DB54-ED8B-96DA-51A28D111A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB073D1-DB54-ED8B-96DA-51A28D111A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB073D1-DB54-ED8B-96DA-51A28D111A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB073D1-DB54-ED8B-96DA-51A28D111A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D6D2F9-A827-3AA9-471B-B9BE74DB202A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D6D2F9-A827-3AA9-471B-B9BE74DB202A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D6D2F9-A827-3AA9-471B-B9BE74DB202A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D6D2F9-A827-3AA9-471B-B9BE74DB202A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C278816-3E1F-B1E5-A42E-53A169C7A4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C278816-3E1F-B1E5-A42E-53A169C7A4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C278816-3E1F-B1E5-A42E-53A169C7A4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C278816-3E1F-B1E5-A42E-53A169C7A4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58403211-69CD-60F6-81A7-97F9B15A21AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58403211-69CD-60F6-81A7-97F9B15A21AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58403211-69CD-60F6-81A7-97F9B15A21AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58403211-69CD-60F6-81A7-97F9B15A21AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05A64CB-7143-7C2B-F30D-641BB6655270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05A64CB-7143-7C2B-F30D-641BB6655270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05A64CB-7143-7C2B-F30D-641BB6655270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05A64CB-7143-7C2B-F30D-641BB6655270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE3AE40-B1D4-FAC8-415D-59357FA651CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE3AE40-B1D4-FAC8-415D-59357FA651CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE3AE40-B1D4-FAC8-415D-59357FA651CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE3AE40-B1D4-FAC8-415D-59357FA651CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346E4D88-0493-E09D-B220-E307C0833D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346E4D88-0493-E09D-B220-E307C0833D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346E4D88-0493-E09D-B220-E307C0833D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346E4D88-0493-E09D-B220-E307C0833D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB0BF54-5702-4B54-BF25-F3306A01CA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB0BF54-5702-4B54-BF25-F3306A01CA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB0BF54-5702-4B54-BF25-F3306A01CA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB0BF54-5702-4B54-BF25-F3306A01CA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFC270C-8E6B-5CE4-927A-BB3E403E1FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFC270C-8E6B-5CE4-927A-BB3E403E1FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFC270C-8E6B-5CE4-927A-BB3E403E1FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFC270C-8E6B-5CE4-927A-BB3E403E1FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1EA492-0214-FCFD-F8DF-70DBBB9BB259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1EA492-0214-FCFD-F8DF-70DBBB9BB259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1EA492-0214-FCFD-F8DF-70DBBB9BB259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1EA492-0214-FCFD-F8DF-70DBBB9BB259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32D69BF-9F07-2386-DAC1-6B905919C36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D69BF-9F07-2386-DAC1-6B905919C36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D69BF-9F07-2386-DAC1-6B905919C36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D69BF-9F07-2386-DAC1-6B905919C36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009BCC17-4B86-863E-BED5-E810DB5CC5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009BCC17-4B86-863E-BED5-E810DB5CC5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009BCC17-4B86-863E-BED5-E810DB5CC5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009BCC17-4B86-863E-BED5-E810DB5CC5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
